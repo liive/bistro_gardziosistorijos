@@ -1,0 +1,94 @@
+{
+  "slug": "gardzios-istorijos",
+  "name": "Bistro Gardžios Istorijos - Senamiestis",
+  "city": "Kaunas",
+  "address": "A. Jakšto g. 6, Kaunas",
+  "phone": "+37067552883",
+  "facebook": "https://www.facebook.com/gardzios.istorijos/",
+  "instagram": "",
+  "wolt": "",
+  "menu": "",
+  "lunch": "",
+  "reservation": "",
+  "cuisine": "Namų virtuvė",
+  "description": "Pietų pertrauka Kauno senamiestyje. Bistro rasite Kolpingo kolegijos pastate, įėjimas iš kiemo pusės.",
+  "sources": [
+    "https://www.meniu.lt/vieta/gardzios-istorijos",
+    "https://www.facebook.com/gardzios.istorijos/",
+    "https://dinner.lt/bistro-gardzios-istorijos-senamiestis/dienos-pietus"
+  ],
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/gardzios-istorijos/assets/food-1.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/13/32634/4be61d53158c32ef8ba78f4a5d385649559aff94.jpeg",
+      "alt": "Karštas patiekalas su salotomis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/gardzios-istorijos/assets/food-2.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/13/6433/de3ddbe3eacdc88fa686fdc2647c07095e519e02.jpeg",
+      "alt": "Šviežių salotų pasirinkimas"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/gardzios-istorijos/assets/food-3.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/13/32635/e169a9ece62c7f95c7502f73b48ef746d69886c7.jpeg",
+      "alt": "Kepti paplotėliai su žalumynais"
+    },
+    {
+      "path": "assets/bendras.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Patiekalai ant bendro stalo",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/vistiena.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Vištienos patiekalas su ryžiais ir salotomis",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/cepelinai.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Cepelinai su padažu ir žalumynais",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/apkepas.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Sūrus kepinys su sūriu ir alyvuogėmis",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/suktinukai.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Daržovių suktinukai su padažu",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/pyragas.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Pyragas su tešlos juostelėmis",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    },
+    {
+      "path": "assets/desertas.webp",
+      "source": "User upload image(20261025-200334).png",
+      "alt": "Desertas su uogomis",
+      "editing": "AI-assisted extraction from supplied food banner; cropped edges reconstructed; interface removed."
+    }
+  ],
+  "story_title": "Namų virtuvė senamiesčio kieme",
+  "story": "Kauno senamiestyje gaminame namų virtuvės pietus. Mus rasite A. Jakšto gatvėje, Kolpingo kolegijos pastate - užsukite pro kiemo pusę.",
+  "design_update": "2026-10-26: project guidelines applied; LT/EN, muted forest palette, full food spread above text, six-photo horizontal gallery.",
+  "lunch_verification": "No current-calendar-week official Facebook lunch post verified on 2026-10-26; outdated lunch promotion removed.",
+  "cover_update": "2026-10-26: split hero, text first on mobile, single uncropped chicken photo, warm ivory and muted sage.",
+  "story_photo_update": {
+    "date": "2026-10-26",
+    "source": "User upload image(20261026-205834).png",
+    "asset": "assets/kepta-vistiena-ryskiai.webp",
+    "edit": "AI-assisted clarity and deep-focus reconstruction of background garnish; original dish arrangement and logo retained."
+  },
+  "gallery_update_20261026": {
+    "cepelinai": "User image(20261026-210111).png; AI edit to white plate and brighter light; replaces previous cepelinai gallery photo.",
+    "zemaiciu_blynai": "User image(20261026-210501).png; AI edit to lighting, crust and sauce presentation; added to gallery."
+  }
+}
